@@ -1,4 +1,5 @@
 Deskripsi Program: 
+
 Program rastaurant ini digunakan untuk mengelola menu yang tersedia di dalam restaurant dengan tujuan mempermudah pembeli dan juga admin dalam mengelola menu menu yang ada. Berbagai fitur yang ada di dalam program ini dengan role sebagai admin ataupun pembeli. Admin dapat menampilkan, menambah, menghapus, menyortir, dan juga mengurutkan. Pembeli dapat menampilkna pula, membeli menu yang ada, mencari menu, dan juga menyortir menu. 
 
 Struktur program menggunakan algoritma:

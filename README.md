@@ -1,9 +1,9 @@
 Deskripsi Program: 
-Program ini digunakan untuk mengelola menu yang tersedia dalam restaurant. Diimplementasikan dengan linked list sebagai struktur data untuk menyimpan menu yang tersedia. Berbagai fitur yang ada di dalam program ini dengan role sebagai admin ataupun pembeli. Admin dapat menampilkan, menambah, menghapus, menyortir, dan juga mengurutkan. Pembeli dapat menampilkna pula, membeli menu yang ada, mencari menu, dan juga menyortir menu. 
+Program rastaurant ini digunakan untuk mengelola menu yang tersedia di dalam restaurant dengan tujuan mempermudah pembeli dan juga admin dalam mengelola menu menu yang ada. Berbagai fitur yang ada di dalam program ini dengan role sebagai admin ataupun pembeli. Admin dapat menampilkan, menambah, menghapus, menyortir, dan juga mengurutkan. Pembeli dapat menampilkna pula, membeli menu yang ada, mencari menu, dan juga menyortir menu. 
 
 Struktur program menggunakan algoritma:
 
-1. Linked List
+1. Linked List 
 2. Sorting : Merge Sort untuk melakukan sortir menu
 3. Searching : Jump Search untuk melakukan pencarian menu
 
@@ -13,9 +13,9 @@ Karena ada 2, yaitu sebagai admin dan juga sebagai pembeli.
 
 sebagai admin memiliki fitur:
 
-1. Menampilkan menu:digunakan untuk menampilkan daftar menu yang ada dalam restoran. Menu dapat disimpan pada struktur data yaittu linked list.
+1. Menampilkan menu: digunakan untuk menampilkan daftar menu yang ada dalam restoran. Menu dapat disimpan pada struktur data yaittu linked list.
 2. Cari menu: digunakan untuk mencari menu berdasarkan nama menu yang dimasukkan oleh admin. Implementasi pencarian dapat dilakukan salah satunya dengan jump search.
-3. Sortir menu: digunakan untuk mengurutkan daftar menu berdasarkan kriteria menu makanan diurutkan berdasarkan seberapa banyak pembeli membeli menu tersebut, sedangkan menu minuman diurutkan berdasarkan menu yang paling murah. Implementasi pengurutan dapat dilakukan salah satunya dengan merge sort.
+3. Sortir menu: digunakan untuk mengurutkan daftar menu berdasarkan kriteria menu makanan diurutkan berdasarkan seberapa banyak pembeli membeli menu tersebut, sedangkan pada menu minuman diurutkan berdasarkan menu yang paling murah. Implementasi pengurutan dapat dilakukan salah satunya dengan merge sort.
 4. Tambah menu: digunakan untuk menambahkan menu baru ke dalam daftar menu. Dan hanya admin yang dapat melakukan tambah menu.
 5. Hapus menu: digunakan untuk menghapus menu yang ingn dihapus dari daftar menu.
 
